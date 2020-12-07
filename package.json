@@ -1,15 +1,14 @@
 {
-  "name": "scratch",
+  "name": "Prettier-vs-Standard",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "standard": "standard --fix example.js",
-    "prettier": "prettier --write example.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prettier": "prettier --write example.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tommy Groshong <tommy@testdouble.com>",
+  "license": "MIT",
   "devDependencies": {
     "prettier": "^2.2.1",
     "standard": "^16.0.3"
