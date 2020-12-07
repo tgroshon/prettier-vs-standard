@@ -1,5 +1,5 @@
-Prettier vs. Standard
-=====================
+Formatting: Prettier vs. Standard 
+===============================
 
 A formatting comparison.
 
